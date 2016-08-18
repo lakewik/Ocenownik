@@ -392,7 +392,7 @@ echo ('<div style="font-family: Century Gothic;" id="topbar11">
   </center>
 </div>	
 		<div id="footer"><span style="font-family: Century Gothic;">  <div class="dottedline3"></div>
-		 &copy; by Wiktor Jezioro && Szymon Stelmach<br><b>Wszelkie prawa zastrzeżone</b><br />
+		 &copy; by Wiktor Jezioro <br><b>Wszelkie prawa zastrzeżone</b><br />
      </span>
       <div class="dottedline3"></div>
       <a id="downbar"  href="regulamin.php">Regulamin</a> &times; <a id="downbar"  href="faq.php">FAQ</a> &times; <a id="downbar"  href="autors.php">Autorzy</a> &times; <a id="downbar"  href="how_run.php">Jak to działa?</a>
